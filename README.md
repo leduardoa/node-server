@@ -12,7 +12,7 @@ npm i
 
 ## Windows
 ```cmd
-./start.bat
+.\start.bat
 ```
 
 ou 
