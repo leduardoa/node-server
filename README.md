@@ -4,6 +4,12 @@ Copy your HTML project into the `dist` folder and run the `start` files accordin
 
 If you don't have the `.htaccess` file in your project, add what's in this project
 
+## Starting
+
+```terminal
+npm i
+```
+
 ## Windows
 ```cmd
 ./start.bat
