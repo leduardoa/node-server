@@ -1,0 +1,4 @@
+node_modules
+dist/*
+!dist/.htaccess
+package-lock.json
